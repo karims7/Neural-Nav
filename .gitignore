@@ -1,0 +1,24 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+
+# Python dependencies
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Golang binaries
+*.exe
+*.out
+*.a
+
+# Docker files
+*.dockerignore
+docker-compose.override.yml
+
+# IDE and Editor files
+.vscode/
+.idea/
+.DS_Store

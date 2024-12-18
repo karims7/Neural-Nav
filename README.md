@@ -1,8 +1,8 @@
-# 🚀 **SmartPath AI: Deep Learning-Powered Route Optimization System**
+# 🚀 **Neural Nav: Deep Learning-Powered Route Optimization System**
 
 ## 📚 **Project Overview**
 
-**SmartPath AI** is a web application that leverages machine learning and high-performance route computation algorithms to provide efficient and diverse route suggestions for road networks. Inspired by cutting-edge research, this project offers an advanced navigation system that computes alternative routes in real-time, adapts to road network changes, and supports dynamic user preferences.
+**Neural Nav** is a web application that leverages machine learning and high-performance route computation algorithms to provide efficient and diverse route suggestions for road networks. Inspired by cutting-edge research, this project offers an advanced navigation system that computes alternative routes in real-time, adapts to road network changes, and supports dynamic user preferences.
 
 ### 🔗 **Research Paper Inspirations**
 
